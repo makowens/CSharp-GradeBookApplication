@@ -4,7 +4,7 @@
     {
         public RankedGradeBook(string name) : base(name)
         {
-            Type = GradeBookType.Ranked;
+            Type = GradeBookType;
         }
     }
 }
